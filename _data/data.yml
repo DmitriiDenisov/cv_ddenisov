@@ -71,20 +71,38 @@ experiences:
         - role: Data Scientist
           time: 2019.07 - Present
           company: Deloitte Middle East
-          location: Dubai
+          location: Dubai, UAE
         
         - role: Data Scientist
           time: 2018.04 - 2019.07
           company: Deloitte Analytics Institute
-          location: Moscow
+          location: Moscow, Russia
           
         - role: Lecturer
           time: 2018.12 - 2019.06
           company: Higher School of Economics
-          location: Moscow
+          location: Moscow, Russia
           details: |
             Lecturer of Introduction into Deep Learning
             + Course materials can be found by the link: https://www.coursera.org/learn/intro-to-deep-learning
+
+Additionally:
+    display: true
+    title: Projects
+    intro: |
+      This is all the projects I'm involved in.
+    
+    items:
+        - name: Foo
+          link: 
+          details: |
+            Project Foo's detail, you can write markdown format text.
+        - name: Bar
+          link: 
+          details: |
+            Project Bar's detail, you can write markdown format text.
+
+
 
 projects:
     display: false

@@ -1,8 +1,4 @@
-# online-resume
-
-[English](README.md) | [简体中文](README_CN.md)
-
----
+# cv_ddenisov
 
 Yet another resume template based on jekyll. You can wirte your resume using markdown, it will be rendered into html and can be printed as pdf.
 
@@ -58,11 +54,11 @@ If you want to use it locally, you shoule clone this repo then just like deployi
 ## Custom Domain:
 1. Buy a domain (for example using Google Domains)
 2. 
-<img src="https://i.ibb.co/PN3m2D3/Screen-Shot-2019-11-03-at-15-30-58.png" width="550">
+<img src="https://i.ibb.co/PN3m2D3/Screen-Shot-2019-11-03-at-15-30-58.png" width="650">
 
 
 ## "WebSite is not secure"
-<img src="https://i.ibb.co/MB4V80W/Screen-Shot-2019-11-03-at-15-52-41.png" width="550">
+<img src="https://i.ibb.co/MB4V80W/Screen-Shot-2019-11-03-at-15-52-41.png" width="650">
 
 ## License
 

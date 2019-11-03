@@ -1,15 +1,15 @@
 intro:
-    name: Dmitry Denisov
-    title: Data Scientist
+    name: Foo Bar
+    title: Backend Developer
     avatar:
         display: true
         path: profile.png
 
 contact:
-    email: dmitryhse@gmail.com
-    phone: +971-58-540-53-49
+    email: me@example.com
+    phone: +86-111-1111-1111
     wechat: 
-    telegram: DmitriiDenisov
+    telegram: 
     website: https://example.com
     linkedin: 
     github: github
@@ -24,14 +24,14 @@ languages:
     display: true
     title: Languages
     items:
-        - idiom: Russian
+        - idiom: Chinese
           level: Native
 
         - idiom: English
-          level: Fluent
+          level: Professional
 
 interests:
-    display: false
+    display: true
     title: Interests
     items:
         - item: Reading
@@ -39,7 +39,7 @@ interests:
         - item: Cooking
     
 profile:
-    display: false
+    display: true
     title: Profile
     details: |
       It's your career profile, you can wirte markdown format text.
@@ -50,16 +50,27 @@ education:
     display: true
     title: Education
     items:
-        - university: Higher School of Economics
-          time: 2013 - 2017
-          major: Applied Mathematics and Informatics // Machine Learning
-          degree: Bachelor
-        
-        - university: Higher School of Economics // Sberbank
-          time: 2017 - 2019
-          major: Financial Technologies and Data Analysis // Machine Learning
+        - university: Example University
+          time: 2015 - 2018
+          major: Machine Learning
           degree: Master
-
+          details: |
+            Experience in this university:
+            + First
+            + Second
+            
+            ...
+        
+        - university: Example University
+          time: 2011 - 2015
+          major: Computer Science
+          degree: Bachelor
+          details: |
+            Experience in this university:
+            + First
+            + Second
+            
+            ...
 experiences:
     display: true
     title: Experiences
@@ -84,7 +95,7 @@ experiences:
             + Second
             ...
 projects:
-    display: false
+    display: true
     title: Projects
     intro: |
       This is all the projects I'm involved in.
@@ -99,7 +110,7 @@ projects:
           details: |
             Project Bar's detail, you can write markdown format text.
 publications:
-    display: false
+    display: true
     title: Publications
     intro: |
       This is all the books I wrote.

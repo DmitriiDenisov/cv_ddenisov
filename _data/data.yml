@@ -83,7 +83,8 @@ experiences:
           company: Higher School of Economics
           location: Moscow
           details: |
-            Lecturer of Introduction into Deep Learning.Course materials can be found by the link: https://www.coursera.org/learn/intro-to-deep-learning
+            Lecturer of Introduction into Deep Learning
+            + Course materials can be found by the link: https://www.coursera.org/learn/intro-to-deep-learning
 
 projects:
     display: false
@@ -121,9 +122,11 @@ skills:
     title: Skills
     details: |
       Here is my skills:
-      + First
-      + Second
-      ...
+      + Data Science: Python, Machine Learning, Deep Learning, Mathematics, Statistics, Scikit-learn, Numpy, Pandas, Keras, TesorFlow
+      + Backend development: GoogleCloud, Docker, Flask, Celery, Pika, RabbitMQ, Alogitms and DataStructures, SQL, TelegramBot, Multiprocessing, Neo4j, Linux, Git
+      + Programming languages: Python, C++, R
+      + Makeup texts in TeX
+     
 evaluation:
   display: true
   title: Self-evaluation

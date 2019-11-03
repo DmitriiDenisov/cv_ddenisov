@@ -1,21 +1,21 @@
 intro:
-    name: Dmitry Denisov
-    title: Data Scientist
+    name: Foo Bar
+    title: Backend Developer
     avatar:
         display: true
         path: profile.png
 
 contact:
-    email: dmitryhse@gmail.com
-    phone: +971-58-540-53-49
+    email: me@example.com
+    phone: +86-111-1111-1111
     wechat: 
-    telegram: DmitriiDenisov
+    telegram: 
     website: https://example.com
     linkedin: 
     github: github
     gitlab: 
     bitbucket: 
-    twitter:
+    twitter: twitter
     stackoverflow: 
     codewars: 
     goodreads: 
@@ -24,11 +24,11 @@ languages:
     display: true
     title: Languages
     items:
-        - idiom: Russian
+        - idiom: Chinese
           level: Native
 
         - idiom: English
-          level: Fluent
+          level: Professional
 
 interests:
     display: true
@@ -45,9 +45,7 @@ profile:
       It's your career profile, you can wirte markdown format text.
       + First
       + Second
-
       ...
-
 education:
     display: true
     title: Education
@@ -73,7 +71,6 @@ education:
             + Second
             
             ...
-
 experiences:
     display: true
     title: Experiences
@@ -86,7 +83,6 @@ experiences:
             Experience in this company:
             + First
             + Second
-
             ...
         
         - role: Backend Developer
@@ -97,9 +93,7 @@ experiences:
             Experience in this company:
             + First
             + Second
-
             ...
-
 projects:
     display: true
     title: Projects
@@ -111,18 +105,15 @@ projects:
           link: 
           details: |
             Project Foo's detail, you can write markdown format text.
-
         - name: Bar
           link: 
           details: |
             Project Bar's detail, you can write markdown format text.
-
 publications:
     display: true
     title: Publications
     intro: |
       This is all the books I wrote.
-
     items:
         - title: Foo in Action
           authors: Foo Bar
@@ -141,9 +132,7 @@ skills:
       Here is my skills:
       + First
       + Second
-
       ...
-
 evaluation:
   display: true
   title: Self-evaluation
@@ -151,9 +140,7 @@ evaluation:
     Here is my self evaluation.
     + First
     + Second
-
     ...
-
 footer: 
   display: true
 

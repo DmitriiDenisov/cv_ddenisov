@@ -54,23 +54,12 @@ education:
           time: 2017 - 2019
           major: Financial Technologies and Data Analysis // Machine Learning
           degree: Master
-          details: |
-            Experience in this university:
-            + First
-            + Second
-            
-            ...
         
         - university: Higher School of Economics
           time: 2013 - 2017
           major: Applied Mathematics and Informatics // Machine Learning
           degree: Bachelor
-          details: |
-            Experience in this university:
-            + First
-            + Second
-            
-            ...
+
 experiences:
     display: true
     title: Experiences

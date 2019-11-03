@@ -95,7 +95,7 @@ Additionally:
     display: true
     title: Additionally
     intro: |
-      + February, 2018: Bronze Medalist of the Olympics”I am Professional”, Mathematics, Yandex.Participant of the winter school, MIPT
+      + February, 2018: Bronze Medalist of the Olympics ”I am Professional”, Mathematics, Yandex.Participant of the winter school, MIPT
       + Included in base of young talents (2019)
       + April, 2018: First degree diploma for Olympiad "Applied Mathematics and Informatics"in HSE amongstudents
       + March, 2019: Prize Winner of the Olympics”I am Professional”, Mathematics, Yandex.
@@ -139,7 +139,7 @@ skills:
     display: true
     title: Skills
     details: |
-      + Data Science: Python, Machine Learning, Deep Learning, Mathematics, Statistics, Scikit-learn, Numpy, Pandas, Keras, TesorFlow
+      + Data Science: Python, Machine Learning, Deep Learning, Mathematics, Statistics, Scikit-learn, Numpy, Pandas, PyTorch, Keras, TesorFlow
       + Backend development: GoogleCloud, Docker, Flask, Celery, Pika, RabbitMQ, Alogitms and DataStructures, SQL, TelegramBot, Multiprocessing, Neo4j, Linux, Git
       + Programming languages: Python, C++, R
       + Makeup texts in TeX

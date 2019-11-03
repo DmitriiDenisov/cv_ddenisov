@@ -1,7 +1,5 @@
 # cv_ddenisov
 
-Yet another resume template based on jekyll. You can wirte your resume using markdown, it will be rendered into html and can be printed as pdf.
-
 Features:
 
 + Easy to use/edit/hide

@@ -98,19 +98,7 @@ Additionally:
       + April, 2017: First degree diploma for Olympiad "Mathematical methods of economic analysis"in HSEamong students
       + May 2018: Graduate from Fintech Tinkoff School
       + Certificate with distinction - secondary and high school. Silver medal - High School
-    
-    items:
-        - name: Foo
-          link: 
-          details: |
-            Project Foo's detail, you can write markdown format text.
-        - name: Bar
-          link: 
-          details: |
-            Project Bar's detail, you can write markdown format text.
-
-
-
+   
 projects:
     display: false
     title: Projects

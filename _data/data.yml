@@ -31,7 +31,7 @@ languages:
           level: Fluent
 
 interests:
-    display: true
+    display: false
     title: Interests
     items:
         - item: Reading
@@ -39,7 +39,7 @@ interests:
         - item: Cooking
     
 profile:
-    display: true
+    display: false
     title: Profile
     details: |
       It's your career profile, you can wirte markdown format text.
@@ -50,27 +50,16 @@ education:
     display: true
     title: Education
     items:
-        - university: Example University
-          time: 2015 - 2018
-          major: Machine Learning
-          degree: Master
-          details: |
-            Experience in this university:
-            + First
-            + Second
-            
-            ...
-        
-        - university: Example University
-          time: 2011 - 2015
-          major: Computer Science
+        - university: Higher School of Economics
+          time: 2013 - 2017
+          major: Applied Mathematics and Informatics // Machine Learning
           degree: Bachelor
-          details: |
-            Experience in this university:
-            + First
-            + Second
-            
-            ...
+        
+        - university: Higher School of Economics // Sberbank
+          time: 2017 - 2019
+          major: Financial Technologies and Data Analysis // Machine Learning
+          degree: Master
+
 experiences:
     display: true
     title: Experiences
@@ -95,7 +84,7 @@ experiences:
             + Second
             ...
 projects:
-    display: true
+    display: false
     title: Projects
     intro: |
       This is all the projects I'm involved in.
@@ -110,7 +99,7 @@ projects:
           details: |
             Project Bar's detail, you can write markdown format text.
 publications:
-    display: true
+    display: false
     title: Publications
     intro: |
       This is all the books I wrote.

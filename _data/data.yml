@@ -15,7 +15,7 @@ contact:
     github: github
     gitlab: 
     bitbucket: 
-    twitter: twitter
+    twitter: 
     stackoverflow: 
     codewars: 
     goodreads: 
@@ -77,6 +77,13 @@ experiences:
           time: 2018.04 - 2019.07
           company: Deloitte Analytics Institute
           location: Moscow
+          
+        - role: Lecturer
+          time: 2018.12 - 2019.06
+          company: Higher School of Economics
+          location: Moscow
+          details: |
+            Lecturer of Introduction into Deep Learning.Course materials can be found by the link: https://www.coursera.org/learn/intro-to-deep-learning
 
 projects:
     display: false

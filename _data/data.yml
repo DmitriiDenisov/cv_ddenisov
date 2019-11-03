@@ -50,6 +50,10 @@ education:
     display: true
     title: Education
     items:
+        - university: MADE - Big Data Academy // Mail.ru (distance learning)
+          time: 2019 - 2021
+          major: Data Scientist
+          
         - university: Higher School of Economics // Sberbank
           time: 2017 - 2019
           major: Financial Technologies and Data Analysis // Machine Learning
@@ -64,27 +68,18 @@ experiences:
     display: true
     title: Experiences
     items:
-        - role: Backend Developer
-          time: 2018.03 - 2019.03
-          company: Second Company
-          location: Beijing
-          details: |
-            Experience in this company:
-            + First
-            + Second
-            ...
+        - role: Data Scientist
+          time: 2019.07 - Present
+          company: Deloitte Middle East
+          location: Dubai
         
-        - role: Backend Developer
-          time: 2017.03 - 2018.03
-          company: First Company
-          location: Beijing
-          details: |
-            Experience in this company:
-            + First
-            + Second
-            ...
+        - role: Data Scientist
+          time: 2018.04 - 2019.07
+          company: Deloitte Analytics Institute
+          location: Moscow
+
 projects:
-    display: true
+    display: false
     title: Projects
     intro: |
       This is all the projects I'm involved in.
@@ -99,7 +94,7 @@ projects:
           details: |
             Project Bar's detail, you can write markdown format text.
 publications:
-    display: true
+    display: false
     title: Publications
     intro: |
       This is all the books I wrote.

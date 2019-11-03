@@ -1,15 +1,15 @@
 intro:
-    name: Foo Bar
-    title: Backend Developer
+    name: Dmitry Denisov
+    title: Data Scientist
     avatar:
         display: true
         path: profile.png
 
 contact:
-    email: me@example.com
-    phone: +86-111-1111-1111
+    email: dmitryhse@gmail.com
+    phone: +971-58-540-53-49
     wechat: 
-    telegram: 
+    telegram: DmitriiDenisov
     website: https://example.com
     linkedin: 
     github: github
@@ -24,14 +24,14 @@ languages:
     display: true
     title: Languages
     items:
-        - idiom: Chinese
+        - idiom: Russian
           level: Native
 
         - idiom: English
-          level: Professional
+          level: Fluent
 
 interests:
-    display: true
+    display: false
     title: Interests
     items:
         - item: Reading
@@ -39,7 +39,7 @@ interests:
         - item: Cooking
     
 profile:
-    display: true
+    display: false
     title: Profile
     details: |
       It's your career profile, you can wirte markdown format text.
@@ -50,9 +50,9 @@ education:
     display: true
     title: Education
     items:
-        - university: Example University
-          time: 2015 - 2018
-          major: Machine Learning
+        - university: Higher School of Economics // Sberbank
+          time: 2017 - 2019
+          major: Financial Technologies and Data Analysis // Machine Learning
           degree: Master
           details: |
             Experience in this university:
@@ -61,9 +61,9 @@ education:
             
             ...
         
-        - university: Example University
-          time: 2011 - 2015
-          major: Computer Science
+        - university: Higher School of Economics
+          time: 2013 - 2017
+          major: Applied Mathematics and Informatics // Machine Learning
           degree: Bachelor
           details: |
             Experience in this university:

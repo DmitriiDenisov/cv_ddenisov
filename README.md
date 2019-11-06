@@ -6,7 +6,7 @@ https://ddenisov.com
 
 ## Features:
 
-+ Easy to use/edit/hide
++ Easy to use/edit/hide 
 + Jekyll + Markdown + Github Pages
 + Multiple languages
 + Multiple skins

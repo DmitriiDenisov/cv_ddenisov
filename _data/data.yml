@@ -68,8 +68,13 @@ experiences:
     display: true
     title: Work experience
     items:
+        - role: Senior Data Scientist
+          time: 2020.03 - Present
+          company: Careem
+          location: Dubai, UAE
+          
         - role: Data Scientist
-          time: 2019.07 - Present
+          time: 2019.07 - 2020.03
           company: Deloitte Middle East
           location: Dubai, UAE
         

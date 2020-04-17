@@ -87,15 +87,13 @@ experiences:
           time: 2019.07 - 2020.03
           company: Deloitte Middle East
           location: Dubai, UAE
-          details:
-            + Participated in several PoC projects, including those related to neural networks and satellite images
+          details: Participated in several PoC projects, including those related to neural networks and satellite images
         
         - role: Data Scientist
           time: 2018.04 - 2019.07
           company: Deloitte Analytics Institute
           location: Moscow, Russia
-          details:
-            + Developed recognition models based on neural networks, and also developed a graph of companies inside Russia to detect corruption schemes during tenders
+          details: Developed recognition models based on neural networks, and also developed a graph of companies inside Russia to detect corruption schemes during tenders
           
         - role: Lecturer
           time: 2018.12 - 2019.06

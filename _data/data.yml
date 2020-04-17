@@ -72,6 +72,15 @@ experiences:
           time: 2020.03 - Present
           company: Careem
           location: Dubai, UAE
+            
+        - role: Lecturer and orginiser
+          time: 2019.12 - Present
+          company: Open Data Science (ODS)
+          location: Dubai, UAE
+          details: |
+            Lecturer of Introduction into Deep Learning
+            + Video recordings can be found by the link: https://youtu.be/hLUKx8Cb_tw
+            + Course materials can be found by the link: https://github.com/DmitriiDenisov/mlcourse_dubai
           
         - role: Data Scientist
           time: 2019.07 - 2020.03

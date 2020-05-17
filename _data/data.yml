@@ -79,10 +79,9 @@ experiences:
           company: Open Data Science (ODS)
           location: Dubai, UAE
           details: |
-            + Video recordings can be found by the link: https://bit.ly/3csuc0g
-            + Course materials can be found by the link: https://github.com/DmitriiDenisov/mlcourse_dubai
-            + <a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>
-            + Community page: https://www.meetup.com/Dubai-Data-Science-Meetup/
+            + Video recordings can be found by the link: <a href="https://bit.ly/3csuc0g">https://bit.ly/3csuc0g</a> 
+            + Course materials can be found by the link: <a href="https://github.com/DmitriiDenisov/mlcourse_dubai">https://github.com/DmitriiDenisov/mlcourse_dubai</a>
+            + Community page: <a href="https://www.meetup.com/Dubai-Data-Science-Meetup/">https://www.meetup.com/Dubai-Data-Science-Meetup/</a> 
           
         - role: Data Scientist
           time: 2019.07 - 2020.03

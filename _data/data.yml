@@ -46,24 +46,7 @@ profile:
       + First
       + Second
       ...
-education:
-    display: true
-    title: Education
-    items:
-        - university: <a href="https://data.mail.ru">MADE</a> - Big Data Academy // Mail.ru (distance learning)
-          time: 2019 - 2021
-          major: Data Scientist
-          
-        - university: Higher School of Economics // Sberbank
-          time: 2017 - 2019
-          major: Financial Technologies and Data Analysis // Machine Learning
-          degree: Master's degree
-        
-        - university: Higher School of Economics
-          time: 2013 - 2017
-          major: Applied Mathematics and Informatics // Machine Learning
-          degree: Bachelor's degree
-
+      
 experiences:
     display: true
     title: Work experience
@@ -106,7 +89,24 @@ experiences:
           time: 2015.06 - 2018.06
           company: Higher School of Economics
           location: Moscow, Russia
+          
+education:
+    display: true
+    title: Education
+    items:
+        - university: <a href="https://data.mail.ru">MADE</a> - Big Data Academy // Mail.ru (distance learning)
+          time: 2019 - 2021
+          major: Data Scientist
+          
+        - university: Higher School of Economics // Sberbank
+          time: 2017 - 2019
+          major: Financial Technologies and Data Analysis // Machine Learning
+          degree: Master's degree
         
+        - university: Higher School of Economics
+          time: 2013 - 2017
+          major: Applied Mathematics and Informatics // Machine Learning
+          degree: Bachelor's degree        
 
 Additionally:
     display: true

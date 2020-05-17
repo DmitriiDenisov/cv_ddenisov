@@ -50,7 +50,7 @@ education:
     display: true
     title: Education
     items:
-        - university: MADE - Big Data Academy // Mail.ru (distance learning)
+        - university: <a href="MADE">https://data.mail.ru/</a> - Big Data Academy // Mail.ru (distance learning)
           time: 2019 - 2021
           major: Data Scientist
           

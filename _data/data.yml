@@ -101,7 +101,7 @@ experiences:
           location: Moscow, Russia
           details: |
             Lecturer of Introduction into Deep Learning
-            + Course materials can be found by the link: https://www.coursera.org/learn/intro-to-deep-learning
+            + Course materials can be found by the link: <a href="https://www.coursera.org/learn/intro-to-deep-learning">https://www.coursera.org/learn/intro-to-deep-learning</a> 
         - role: Teaching assistant of Mathematical Analysis
           time: 2015.06 - 2018.06
           company: Higher School of Economics

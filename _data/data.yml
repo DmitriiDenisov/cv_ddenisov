@@ -37,16 +37,7 @@ interests:
         - item: Reading
           link:
         - item: Cooking
-    
-profile:
-    display: true
-    title: Publications
-    details: |
-      It's your career profile, you can wirte markdown format text.
-      + First
-      + Second
-      ...
-      
+          
 experiences:
     display: true
     title: Work experience
@@ -90,6 +81,15 @@ experiences:
           company: <a href="https://www.hse.ru/en/ba/ami/">Higher School of Economics</a>
           location: Moscow, Russia
 
+profile:
+    display: true
+    title: Publications
+    details: |
+      It's your career profile, you can wirte markdown format text.
+      + First
+      + Second
+      ...
+      
 public1:
     display: true
     title: public1

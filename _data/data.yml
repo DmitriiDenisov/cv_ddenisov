@@ -84,11 +84,7 @@ experiences:
 profile:
     display: true
     title: Publications
-    details: |
-      It's your career profile, you can wirte markdown format text.
-      + First
-      + Second
-      ...
+    details: Kamalov Firuz, Denisov Dmitry. <a href="https://www.sciencedirect.com/science/article/abs/pii/S095070512030513X?dgcid=author">Gamma distribution-based sampling for imbalanced data</a> // Knowledge-Based Systems. 2020. 
       
 public1:
     display: true

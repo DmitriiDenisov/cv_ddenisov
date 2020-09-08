@@ -104,12 +104,12 @@ education:
         - university: <a href="https://www.hse.ru/en/ma/fintech/"> Higher School of Economics // Sberbank</a>  
           time: 2017 - 2019
           major: Financial Technologies and Data Analysis // Machine Learning
-          degree: Master's degree
+          degree: Master's Degree
         
         - university: <a href="https://www.hse.ru/en/ba/ami/"> Higher School of Economics</a> 
           time: 2013 - 2017
           major: Applied Mathematics and Informatics // Machine Learning
-          degree: Bachelor's degree        
+          degree: Bachelor's Degree        
 
 Additionally:
     display: true

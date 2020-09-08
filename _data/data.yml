@@ -39,8 +39,8 @@ interests:
         - item: Cooking
     
 profile:
-    display: false
-    title: Profile
+    display: true
+    title: Publications
     details: |
       It's your career profile, you can wirte markdown format text.
       + First

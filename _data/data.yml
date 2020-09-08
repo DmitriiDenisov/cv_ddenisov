@@ -89,7 +89,11 @@ experiences:
           time: 2015.06 - 2018.06
           company: <a href="https://www.hse.ru/en/ba/ami/">Higher School of Economics</a>
           location: Moscow, Russia
-          
+Publications:
+    display: true
+    title: Education
+    items: 
+        - role: Kamalov Firuz, Denisov Dmitry. <a href="https://www.sciencedirect.com/science/article/abs/pii/S095070512030513X?dgcid=author">Gamma distribution-based sampling for imbalanced data</a> // Knowledge-Based Systems. 2020. 
 education:
     display: true
     title: Education

@@ -101,7 +101,7 @@ education:
     title: Education
     items:
         - university: <a href="https://data.mail.ru">MADE - Big Data Academy // Mail.ru (distance learning)</a> 
-          time: 2019 - 2021
+          time: 2019
           major: Data Scientist
           
         - university: <a href="https://www.hse.ru/en/ma/fintech/"> Higher School of Economics // Sberbank</a>  

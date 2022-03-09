@@ -48,35 +48,6 @@ experiences:
           location: Dubai, UAE
           details: Work in Fraud prevention department
         
-        - role: Data Scientist
-          time: 2019.07 - 2020.03
-          company: <a href="https://www2.deloitte.com/qa/en/pages/about-deloitte/articles/about-deloitte-middleeast.html">Deloitte Advanced Analytics (Middle East)</a>
-          location: Dubai, UAE
-          details: Participated in several PoC projects, including those related to neural networks and satellite images
-        
-        - role: Data Scientist
-          time: 2018.04 - 2019.07
-          company: <a href="https://www2.deloitte.com/ru/en.html?icid=site_selector_ru">Deloitte Analytics Institute</a>
-          location: Moscow, Russia
-          details: Developed recognition models based on neural networks, and also developed a graph of companies inside Russia to detect corruption schemes during tenders
-          
-profile:
-    display: true
-    title: Publications
-    details: Kamalov Firuz, Denisov Dmitry. <a href="https://www.sciencedirect.com/science/article/abs/pii/S095070512030513X?dgcid=author">Gamma distribution-based sampling for imbalanced data</a> // Knowledge-Based Systems (impact factor 6.075) Vol. 207. Elsevier, Aug 2020. 
-      
-interests:
-    display: false
-    title: Interests
-    items:
-        - item: Reading
-          link:
-        - item: Cooking
-
-Teaching:
-    display: true
-    title: Teaching
-    items: 
         - role:  Senior Data Science instructor
           time: 2021.08 - 2021.11 (Temporary contract)
           company: <a href="https://sdaia.gov.sa/?Lang=en&page=SectionHome#">Saudi Authority for Data and Artificial Intelligence</a>
@@ -92,6 +63,18 @@ Teaching:
             + Course materials can be found by the link: <a href="https://github.com/DmitriiDenisov/mlcourse_dubai">https://github.com/DmitriiDenisov/mlcourse_dubai</a>
             + Community page: <a href="https://www.meetup.com/Dubai-Data-Science-Meetup/">https://www.meetup.com/Dubai-Data-Science-Meetup/</a> 
           
+        - role: Data Scientist
+          time: 2019.07 - 2020.03
+          company: <a href="https://www2.deloitte.com/qa/en/pages/about-deloitte/articles/about-deloitte-middleeast.html">Deloitte Advanced Analytics (Middle East)</a>
+          location: Dubai, UAE
+          details: Participated in several PoC projects, including those related to neural networks and satellite images
+        
+        - role: Data Scientist
+          time: 2018.04 - 2019.07
+          company: <a href="https://www2.deloitte.com/ru/en.html?icid=site_selector_ru">Deloitte Analytics Institute</a>
+          location: Moscow, Russia
+          details: Developed recognition models based on neural networks, and also developed a graph of companies inside Russia to detect corruption schemes during tenders
+          
         - role: Lecturer
           time: 2018.12 - 2019.06
           company: <a href="https://www.hse.ru/en/ba/ami/">Higher School of Economics</a>
@@ -104,6 +87,16 @@ Teaching:
           company: <a href="https://www.hse.ru/en/ba/ami/">Higher School of Economics</a>
           location: Moscow, Russia
 
+profile:
+    display: true
+    title: Publications
+    details: Kamalov Firuz, Denisov Dmitry. <a href="https://www.sciencedirect.com/science/article/abs/pii/S095070512030513X?dgcid=author">Gamma distribution-based sampling for imbalanced data</a> // Knowledge-Based Systems (impact factor 6.075) Vol. 207. Elsevier, Aug 2020. 
+      
+public1:
+    display: true
+    title: public1
+    name: Abc
+    
 publications:
     display: true
     title: publications

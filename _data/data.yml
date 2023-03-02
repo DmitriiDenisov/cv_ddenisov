@@ -42,12 +42,27 @@ experiences:
     display: true
     title: Work experience
     items:
-        - role: Senior Data Scientist
-          time: 2020.03 - Present
+        - role: Data Science Manager
+          time: 2022.10 - Present
           company: <a href="https://www.careem.com/">Careem (an Uber company)</a>
           location: Dubai, UAE
           details: Work in Fraud prevention department
-        
+          
+        - role: Senior Data Scientist
+          time: 2020.03 - 2022.10
+          company: <a href="https://www.careem.com/">Careem (an Uber company)</a>
+          location: Dubai, UAE
+          details: |
+            + Developed and implemented an AB testing framework from scratch for the Integrity team. This facilitates A/B testing for two sets of rules and enables comparison of their respective outputs. Subsequently, the Data Scientists/Data Analysts can make informed decisions about whether to deploy or remove these rules, and gradually turn on traffic for them.
+            + Automated measurement of precision using experimentation and test/control groups, which was developed from the ground up. This process enables a predetermined percentage of traffic to bypass Integrity controls, and measures the precision of these controls based on user status over time
+            + Automated various human processes, such as creating an auto clawback process to retrieve money from blocked customers and captains, unblocking inactive captains upon request from Operations team, and blacklisting cards to prevent fraudulent activities
+            + Created a card addition flow, which includes logic and rules for adding cards. Depending on the card feature, the flow allows for smooth addition, 0$ authorization, 3DS verification, or card decline.
+            + Designed and deployed a Chargeback model to reduce losses from Chargebacks. Based on various user features, the model determines whether to call 3DS during the TopUp process. The model was later extended for Mobile Recharges, resulting in a significant reduction of fraud and losses
+            + Implemented real-time payouts Integrity checks for Captains by creating controls for instant captain payouts.
+            + Developed a Captain Payout model to automate daily payouts for Captains.
+            + Managed the Destination Change project, which entailed developing and deploying the necessary features for users to modify their trip destinations.
+            + Designed and implemented a Trip Completion model that includes rules and a model to block captains and customers in real-time once a trip is completed.
+            
         - role:  Senior Data Science instructor
           time: 2021.08 - 2021.11 (Temporary contract)
           company: <a href="https://sdaia.gov.sa/?Lang=en&page=SectionHome#">Saudi Authority for Data and Artificial Intelligence</a>

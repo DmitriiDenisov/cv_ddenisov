@@ -1,6 +1,6 @@
 intro:
     name: Dmitry Denisov
-    title: Senior Data Scientist
+    title: Data Science Team Lead
     avatar:
         display: true
         path: profile.png
@@ -42,11 +42,12 @@ experiences:
     display: true
     title: Work experience
     items:
-        - role: Data Science Manager
+        - role: Data Science Team Lead
           time: 2022.10 - Present
           company: <a href="https://www.careem.com/">Careem (an Uber company)</a>
           location: Dubai, UAE
           details: |
+            + Neural Network model for identifying and flagging duplicate driver photos in order to prevent fraudulent activities
             + Anomaly detection UI + alerts: a user interface that facilitates the detection of anomalies in traffic, features, rules, or models. Implemented an alert system to notify users in real-time when an anomaly is detected.
             + Model’s interpretation: a user interface to enable Product and Business teams to interpret model outputs. The interface provides transparency and facilitates model validation.
             + Pre-auth model: a machine learning model to minimize credit card underpayment losses. The model employs advanced techniques to improve accuracy and minimize false positives.

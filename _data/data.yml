@@ -7,7 +7,7 @@ intro:
 
 contact:
     email: dmitryhse@gmail.com
-    phone: +971-58-540-53-49
+    phone:
     wechat: 
     telegram: DmitriiDenisov
     website: https://ddenisov.com
@@ -42,7 +42,7 @@ experiences:
     display: true
     title: Work experience
     items:
-        - role: Data Science Team Lead
+        - role: Data Science Technical Lead
           time: 2022.10 - Present
           company: <a href="https://www.careem.com/">Careem (an Uber company)</a>
           location: Dubai, UAE
@@ -67,7 +67,15 @@ experiences:
             + Developed a Captain Payout model to automate daily payouts for Captains.
             + Managed the Destination Change project, which entailed developing and deploying the necessary features for users to modify their trip destinations.
             + Designed and implemented a Trip Completion model that includes rules and a model to block captains and customers in real-time once a trip is completed.
-            
+
+
+        - role: Data Science Lecturer
+          time: 2023.07 - Present
+          company: <a href="https://rebrainme.com/">Rebrain</a>
+          location: Remote
+          details: |
+            + Developed content for Data Science course. Prepared lectures and materials for topics: Feature Engineering, Ensembles, Gradient Boosting, Time Series 
+
         - role:  Senior Data Science instructor
           time: 2021.08 - 2021.11 (Temporary contract)
           company: <a href="https://sdaia.gov.sa/?Lang=en&page=SectionHome#">Saudi Authority for Data and Artificial Intelligence</a>

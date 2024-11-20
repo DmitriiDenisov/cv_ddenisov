@@ -21,7 +21,7 @@ contact:
     goodreads: 
 
 languages:
-    display: true
+    display: false
     title: Languages
     items:
         - idiom: Russian
